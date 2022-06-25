@@ -1,0 +1,27 @@
+.button{
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px grey;
+    font-size: 42px;
+    padding: auto;
+}
+
+.button:hover{
+    background-color: darksalmon;
+}
+
+.clear{
+    background-color:coral;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 42px;
+    padding: auto;
+}
+
+.clear:hover{
+    background-color: brown;
+}

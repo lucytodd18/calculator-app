@@ -1,0 +1,12 @@
+.display{
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: black;
+    font-weight: bold;
+    padding: 0px 5px;
+    font-size: 70px;
+}
