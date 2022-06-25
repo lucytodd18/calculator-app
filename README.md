@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Getting started
-Use the terminal to cd into the correct folder where the project is stored. 
+Clone this repository either by downloading or using ```git clone```
 
 To load the packages in the application open a terminal and run the command
 ```npm install```
