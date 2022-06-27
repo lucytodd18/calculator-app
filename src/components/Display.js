@@ -2,7 +2,7 @@ import "./Display.css"
 
 const Display = ({value}) => {
     return (
-        <div className="display" mode="single" max={50}> {value} </div>
+        <div className="display"> {value} </div>
     )
 }
 
