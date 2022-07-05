@@ -21,4 +21,3 @@ The page will reload when you make changes.\
 The calculator will take a maximum of 10 didgets per number to prevent overflow. 
 The calculator only accepts inputs of integers but will return decimals where apropriate. 
 
-#FAQs
